@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusample=self.webpackChunkdocusample||[]).push([[906],{2002:function(a){a.exports=JSON.parse('{"allTagsPath":"/docusample/blog/tags","slug":"/docusample/blog/tags/hola","name":"hola","count":1,"permalink":"/docusample/blog/tags/hola"}')}}]);
